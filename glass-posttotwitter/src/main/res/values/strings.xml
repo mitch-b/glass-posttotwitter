@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Post To Twitter</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="glass_voice_trigger">update hack omaha</string>
+    <string name="glass_voice_prompt">such demo, wow</string>
+
+</resources>
